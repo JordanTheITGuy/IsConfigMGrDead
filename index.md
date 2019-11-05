@@ -4,7 +4,10 @@ layout: default
 
 # ConfigMgr It's not Dead
 
+![image](https://github.com/JordanTheITGuy/IsConfigMGrDead/blob/master/assets/images/IsConfigMgrDead.png?raw=true/)
+
 [![alt text](https://raw.githubusercontent.com/JordanTheITGuy/IsConfigMGrDead/master/assets/images/MicrosoftLogopng.png)](https://www.youtube.com/embed/DnmnLr2NUXk?start=1105 "Brad Anderson - On ConfigMgr")
+
 
 
 This whole website started as the child of a joke on Twitter. A joke that just kept going on and on until this website was born. 
