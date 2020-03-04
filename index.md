@@ -7,7 +7,6 @@ layout: default
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This video is something I’ve asked everyone in my org to watch. It was intended to be internal-only, but I can’t resist sharing it.<br><br>You can read more about why I think this is so important here: <a href="https://t.co/3jvzumi8EA">https://t.co/3jvzumi8EA</a> <a href="https://t.co/dd5IuoxcNt">pic.twitter.com/dd5IuoxcNt</a></p>&mdash; Brad Anderson (@Anderson) <a href="https://twitter.com/Anderson/status/1234920097984073728?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<iframe width="560" height="315" src="https://twitter.com/i/status/1234920097984073728" frameborder="0" allowfullscreen></iframe>
 
 ![image](https://github.com/JordanTheITGuy/IsConfigMGrDead/blob/master/assets/images/IsConfigMgrDead.png?raw=true/)
 
